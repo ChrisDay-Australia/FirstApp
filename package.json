@@ -1,11 +1,12 @@
 {
   "name": "FirstApp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "angular": "^1.3.15",
     "body-parser": "~1.12.0",
     "cookie-parser": "~1.3.4",
     "debug": "~2.1.1",
