@@ -1,0 +1,17 @@
+{
+  "name": "FirstApp",
+  "version": "0.0.1",
+  "description": "This is my first application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisDay-Australia/FirstApp.git"
+  },
+  "engines": {
+    "npm": ">=2.1.1",
+    "node": ">=0.10.33 <0.11"
+  },
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
+
